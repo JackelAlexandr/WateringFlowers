@@ -1,0 +1,14 @@
+# Ignore all history folder
+*/History/
+
+# Ignore all previews folder
+*/__Previews/
+
+# Ignore all .log files
+*.LOG
+
+# Ignore all .zip files
+*.zip
+
+# Ignore .PrjPcbStructure file
+*.PrjPcbStructure
